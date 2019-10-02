@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: University of Queensland
-    year: <i>present</i>
+    year: present
   - course: MEnvMan in Resource and Environmental Economics
     institution: University of Queensland
     year: 2018
