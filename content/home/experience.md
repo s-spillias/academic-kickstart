@@ -18,27 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "PHD STUDNET"
-  company = "somewhere"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "PhD Candidate"
+  company = "School of Earth and Environmental Science, University of Queensland"
+  company_url = "https://sees.uq.edu.au/"
+  location = "Brisbane, Australia"
+  date_start = "2018-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  How can expanded offshore seaweed cultivation contribute to achieving the Sustainable Development Goals?
   
-  * Analysing
-  * Modelling
-  * Deploying
   """
-
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
+  title = "Mate"
+  company = "Sea Education Association"
+  company_url = "https://www.sea.edu/"
+  location = "Woods Hole, Massachussetts"
+  date_start = "2015-08-01"
+  date_end = "2017-5-31"
+  description = """ It is difficult to truly understsand the ocean unless you have voyaged upon it. """
+  
+[[experience]]
+  title = "Captain"
+  company = "Call of the Sea"
+  company_url = "https://callofthesea.org/"
+  location = "Sausalito, California"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_end = "2017-5-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
