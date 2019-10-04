@@ -5,5 +5,3 @@ draft: false
 ---
 
 Hello World
-
-[My CV]{{< ref "cv/index.md" >}}
