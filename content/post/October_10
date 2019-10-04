@@ -1,9 +1,5 @@
 ---
-title: "October_10"
-date: 2019-10-04T21:19:49+10:00
-draft: true
+date: 2017-12-01
+title: My first blog post
 ---
-
-Hello World
-
-[My CV]{{< ref "cv/index.md" >}}
+Is this going to work?
