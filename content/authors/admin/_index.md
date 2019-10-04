@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a scholar, musician, baker, sky appreciator, and sailor. 
+I'm a scholar, musician, baker, sky appreciator, and sailor.
 
-
+My PhD at UQ is focused on trying to understand the environmental impacts of seaweed farming.
