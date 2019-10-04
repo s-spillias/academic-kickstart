@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Environmental Management
     institution: University of Queensland
     year: present
   - course: MEnvMan in Resource and Environmental Economics
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a scholar, baker, sky appreciator, and sailor. 
+I'm a scholar, musician, baker, sky appreciator, and sailor. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
